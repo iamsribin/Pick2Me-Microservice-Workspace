@@ -1,28 +1,25 @@
 
-[submodule "Retro-Routes-User-service"]
-	path = Retro-Routes-User-service
-	url = https://github.com/iamsribin/Retro-Routes-User-service.git
-
-[submodule "Retro-Routes-Apigateway-service"]
-	path = Retro-Routes-Apigateway-service
-	url = https://github.com/iamsribin/Retro-Routes-Apigateway-service
-	
-[submodule "Retro-Routes-Client-Service"]
-	path = Retro-Routes-Client-Service
-	url = https://github.com/iamsribin/Retro-Routes-Client-Service
- 
-[submodule "Retro-Routes-Driver-service"]
-	path = Retro-Routes-Driver-service
-	url = https://github.com/iamsribin/Retro-Routes-Driver-service
-
-[submodule "Retro-Routes-Payment-Service"]
-	path = Retro-Routes-Payment-Service
-	url = https://github.com/iamsribin/Retro-Routes-Auth-Service 
-
-[submodule "Retro-Routes-Booking-service"]
-	path = Retro-Routes-Booking-service
-	url = https://github.com/iamsribin/Retro-Routes-Booking-service 
-
-[submodule "Retro-Routes-Realtime-Service"]
-	path = Retro-Routes-Realtime-Service
-	url = https://github.com/iamsribin/Retro-Routes-Booking-service 
+[submodule "Pick2Me-User-Service"]
+	path = Pick2Me-User-Service
+	url = https://github.com/iamsribin/Pick2Me-User-Service.git
+[submodule "Pick2Me-Gateway-Service"]
+	path = Pick2Me-Gateway-Service
+	url = https://github.com/iamsribin/Pick2Me-Gateway-Service.git
+[submodule "Pick2Me-Client-Service"]
+	path = Pick2Me-Client-Service
+	url = https://github.com/iamsribin/Pick2Me-Client-Service.git
+[submodule "Pick2Me-Driver-Service"]
+	path = Pick2Me-Driver-Service
+	url = https://github.com/iamsribin/Pick2Me-Driver-Service.git
+[submodule "Pick2Me-Payment-Service"]
+	path = Pick2Me-Payment-Service
+	url = https://github.com/iamsribin/Pick2Me-Payment-Service.git
+[submodule "Pick2Me-Booking-Service"]
+	path = Pick2Me-Booking-Service
+	url = https://github.com/iamsribin/Pick2Me-Booking-Service.git
+[submodule "Pick2Me-Realtime-Service"]
+	path = Pick2Me-Realtime-Service
+	url = https://github.com/iamsribin/Pick2Me-Realtime-Service.git
+[submodule "Pick2Me-Shared"]
+	path = Pick2Me-Shared
+	url = https://github.com/iamsribin/Pick2Me-Shared.git
