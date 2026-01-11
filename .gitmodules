@@ -23,3 +23,6 @@
 [submodule "Pick2Me-Shared"]
 	path = Pick2Me-Shared
 	url = https://github.com/iamsribin/Pick2Me-Shared.git
+[submodule "Pick2Me-Infra"]
+	path = Pick2Me-Infra
+	url = https://github.com/iamsribin/Pick2Me-Infra
